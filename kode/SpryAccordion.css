@@ -1,0 +1,75 @@
+@charset "UTF-8";
+
+.Accordion {
+	border-left: solid 1px gray;
+	border-right: solid 1px black;
+	border-bottom: solid 1px gray;
+	overflow: hidden; 
+}
+
+.AccordionPanel {
+	margin: 0px;
+	padding: 0px;
+}
+
+.AccordionPanelTab {
+	background-color: #CCC;
+	border-top: solid 1px black;
+	border-bottom: solid 1px gray;
+	margin: 0px;
+	padding: 2px;
+	cursor: pointer;
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	background-image: url(../images/nav.png);
+	background-repeat: repeat-x;
+	height: 26px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.AccordionPanelContent {
+	overflow: auto;
+	margin: 0px;
+	padding: 0px;
+	height: 350px;
+}
+
+/* This is an example of how to change the appearance of the panel tab that is
+ * currently open. The class "AccordionPanelOpen" is programatically added and removed
+ * from panels as the user clicks on the tabs within the Accordion.
+ */
+.AccordionPanelOpen .AccordionPanelTab {
+	background-color: #CCC;
+	background-image: url(../images/nav02.png);
+	color: #666666;
+}
+
+/* This is an example of how to change the appearance of the panel tab as the
+ * mouse hovers over it. The class "AccordionPanelTabHover" is programatically added
+ * and removed from panel tab containers as the mouse enters and exits the tab container.
+ */
+.AccordionPanelTabHover {
+	color: #FFFFFF;
+	background-color: #FFC;
+	background-image: url(../images/MenuItem.png);
+}
+.AccordionPanelOpen .AccordionPanelTabHover {
+	color: #333333;
+	background-color: #999;
+}
+
+/* This is an example of how to change the appearance of all the panel tabs when the
+ * Accordion has focus. The "AccordionFocused" class is programatically added and removed
+ * whenever the Accordion gains or loses keyboard focus.
+ */
+.AccordionFocused .AccordionPanelTab {
+	background-color: #CCC;
+}
+
+/* This is an example of how to change the appearance of the panel tab that is
+ * currently open when the Accordion has focus.
+ */
+.AccordionFocused .AccordionPanelOpen .AccordionPanelTab {
+	background-color: #CCC;
+}
