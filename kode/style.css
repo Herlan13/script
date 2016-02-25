@@ -18,7 +18,7 @@
     box-shadow: 0px 1px 4px rgba(0, 0, 0, .75);
     -moz-box-shadow: 0px 1px 4px rgba(0, 0, 0, .75);
     -webkit-box-shadow: 0px 1px 4px rgba(0, 0, 0, .75);
-	bottom:50px;POSITION: fixed;right:5px;
+	bottom:38px;POSITION: fixed;right:5px;
 }
 
 .ttw-music-player .album-cover .img {
@@ -120,7 +120,7 @@
     background: transparent ;
     float: left;
     margin: 12px 0 0 30px;
-	bottom:15px;POSITION: fixed;right:5px;
+	bottom:5px;POSITION: fixed;right:5px;
 	background:#382802 ;-moz-box-shadow:inset 0px 0px 4px 1px #fff7ed;-webkit-box-shadow:inset 0px 0px 4px 1px #fff7ed;box-shadow:inset 0px 0px 4px 1px #fff7ed;
 }
 
