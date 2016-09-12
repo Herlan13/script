@@ -15,7 +15,7 @@ var myPlaylist = [
         artist:'Peter Sue & Marc <br/><br/>Lyrics :<br/><br/>Father. tell me how was mother<br/>For I was only three, when she passed away<br/>apple pie,make me sad I dont know why<br/><br/>Maybe its been <br/>I feel she never go, never go<br/><br/>Oh father, tell me was she pretty<br/>And now my children three<br/>She looks like the queen<br/><br/>Father tell me, was she happy?<br/>When she was still arround<br/>Here with you and me<br/><br/>baby cry<br/>Make her sad I dont know why<br/>May be she long ago<br/>That she have to lived<br/>Have to lived<br/><br/>Oh father, I can see her<br/>Like the morning<br/>I need like the yesterday<br/>That she went away<br/>I need like the yesterday<br/>That she went away<br/><br/>Oh father, tell me<br/>I need like the yesterday<br/>That she went away',
         rating:4,
 		duration:'',
-        buy:'https://dl.dropboxusercontent.com/s/axikzmjz1ii4hpz/Peter%20Sue%20and%20Marc%20-%20Father.mp3?dl=1',
+        buy:'https://docs.google.com/uc?export=download&id=0B84Nkv57kdCOek0yNjRiRzd3SVU',
         cover:'http://2.bp.blogspot.com/-mjCeblvO7Hg/VDisQnsDtjI/AAAAAAAAO0E/r3i_wiCnrag/s1600/Peter%2BSue%2Band%2BMarc%2B-%2BFather.jpg'
 		
     },
@@ -26,7 +26,7 @@ var myPlaylist = [
         artist:'Lucifer <br/><br/>Lyrics<br/><br/>The sign went up one rainy morning<br />Just a couple of hours after dawn<br />Mrs. Hadley peaked out through her curtains<br />Wondering what was going on<br /><br />The neighbors said over coffee cups<br />That nice young couple is breaking up<br /><br />And in the living room the linen and the crystals<br />Sit all packed and set to go<br />I tell myself once more I wont be here in spring<br />To see my roses grow<br /><br />And all the things you tried to fix<br />The roof still leaks, the door still sticks<br /><br />House for sale<br />You can read it on the sign<br />House for sale<br />It was yours and it was mine<br /><br />And tomorrow some strangers<br />Will be climbing up the stairs<br />To the bedroom filled with memories<br />The one we used to share<br /><br />I know youve always loved that painting<br />From that funny little shop in Spain<br />Remember how we found it when we ducked in<br />From that sudden summer rain<br /><br />But I think Ill keep the silver tray<br />My mother gave us on our wedding day<br /><br />House for sale<br />You can read it on the sign<br />House for sale<br />It was yours and it was mine<br /><br />And tomorrow some strangers<br />Will be climbing up the stairs<br />To the bedroom filled with memories<br />The one we used to share<br /><br />House for sale<br />You can read it on the sign<br />House for sale<br />It was yours and it was mine<br /><br />And tomorrow some strangers<br />Will be climbing up the stairs<br />To the bedroom filled with memories<br />The one we used to share<br /><br />House for sale<br />You can read it on the sign<br />House for sale<br />It was yours and it was mine<br /><br />And tomorrow some strangers<br />Will be climbing up the stairs<br />To the bedroom filled with memories<br />The one we used to share<br /><br />House for sale<br />You can read it on the sign<br />House for sale, oho<br />It was yours and it was mine<br /><br />And tomorrow some strangers<br />Will be climbing up the stairs<br />To the bedroom filled with memories<br />The one we used to share',
         rating:4,
 		duration:'',
-        buy:'https://dl.dropboxusercontent.com/s/ek1n76vyww1m736/Lucifer%20-%20House%20For%20Sale.mp3?dl=1',
+        buy:'https://docs.google.com/uc?export=download&id=0B84Nkv57kdCOMVUyZmpjVWQ4YU0',
         cover:'http://3.bp.blogspot.com/-62dfySUej2A/VBw4PWgxtgI/AAAAAAAANkw/mMO1ezO0C1s/s1600/Lucifer%2B-%2BHouse%2BFor%2BSale.jpg'
 		
     },
@@ -37,7 +37,7 @@ var myPlaylist = [
         artist:'Paul Anka<br><br> <FONT color=#0000ff>  <b>Lyrics :</b></FONT><br><br>I dont like to sleep alone<BR>Stay with me, dont go<BR>Talk with me for just a while<BR>So much of you to get to know<BR>Reaching out touching you<BR>Leaving all the worries far behind<BR>Loving you the way I do<BR>My mouth on yours and yours on mine<BR>Marry me, let me live with you<BR>Nothings wrong and love is right<BR><BR>Like a man said in his song<BR>Help me make it through the night"<BR>Loneliness can get you down<BR>When you get to thinkin no one cares<BR>Lean on me<BR>(And Ill lean on you)<BR>Together we will see it through<BR><BR>No, I dont like to sleep alone<BR>Its sad to think some folks do<BR>No, I dont like to sleep alone<BR>No one does<BR>Do you<BR><BR>(I dont like to sleep alone)<BR>No one does<BR>Do you  ',
         rating:4,
 		duration:'',
-        buy:'https://www.dropbox.com/s/y4nhe90djy0or47/Paul%20Anka%20-%20I%20Dont%20Like%20to%20Sleep%20Alone.mp3?dl=1',
+        buy:'https://docs.google.com/uc?export=download&id=0B84Nkv57kdCORWRzXzFsYTJmZU0',
         cover:'http://4.bp.blogspot.com/-wXjZAC9_Z-M/Vf7KR9xAp2I/AAAAAAAAAWQ/2YaILMDaZ6A/s1600/Paul%2BAnka%2B-%2BI%2BDon%2527t%2BLike%2BTo%2BSleep%2BAlone%2B-%2B297.jpg'
 		
     },
@@ -48,7 +48,7 @@ var myPlaylist = [
         artist:'Mouth Mc Neal<br><br><FONT color=#8000ff> Lyrics : </FONT><br><br>I never had another lover<br />it was you who did discover<br />how to really touch my heart<br />now you are telling me youre going<br />when my love for you is showing<br />we should never be apart<br /><br />so please dont turn your back upon me<br />without your love i die slowly<br />you have taken half my life<br />every step i do for you, love,<br />every move is born of true love<br />its a dream i wont survive<br /><br />Reff :<br />cause when youre gone<br />its not of any use that i go on<br />that is understood<br /><br />dont leave me alone<br />the stars wont twinkle in the sky no more<br />the tree will lose its bloom<br />the birds wont sing their song (2x)<br /><br />when i take your hand<br />i feel my love for you<br />will never end or disappear<br /><br />please understand i am here<br />love is beautiful, love is dear,<br />when youre here<br /><br />if you stay with me i promise<br />ill tell the world about us<br />ill sing you favourite song<br />ill make you dream a dream forever<br />bring you flowers till you surrender<br />ill prove my love is strong<br /><br />Reff :<br />but when youre gone<br />its not of any use that i go on<br />that is understood<br />dont leave me alone<br />the stars wont twinkle in the sky no more<br />the tree will lose its bloom<br />the birds wont sing their song ',
         rating:4,
 		duration:'',
-        buy:'https://dl.dropboxusercontent.com/s/n9d9v9w7nrf1zod/Maggie%20Macneal%20-%20When%20Youre%20Gone%20%20.mp3?dl=1',
+        buy:'https://docs.google.com/uc?export=download&id=0B84Nkv57kdCOWDVINFlUNVNrX0U',
         cover:'http://1.bp.blogspot.com/-FZ62DN6GZG0/UUgCDv13JSI/AAAAAAAADfA/p2aGcGFlgx0/s1600/Maggie+McNeal+-+When+You%27re+Gone.jpeg'
 		
     },
