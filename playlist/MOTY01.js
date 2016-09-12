@@ -9,7 +9,7 @@
 var myPlaylist = [
 
     {
-        mp3:'https://dl.dropboxusercontent.com/s/axikzmjz1ii4hpz/Peter%20Sue%20and%20Marc%20-%20Father.mp3',
+        mp3:'https://docs.google.com/uc?export=download&id=0B84Nkv57kdCOek0yNjRiRzd3SVU',
         oga:'mix/1.ogg',
 		title:'Father ',
         artist:'Peter Sue & Marc <br/><br/>Lyrics :<br/><br/>Father. tell me how was mother<br/>For I was only three, when she passed away<br/>apple pie,make me sad I dont know why<br/><br/>Maybe its been <br/>I feel she never go, never go<br/><br/>Oh father, tell me was she pretty<br/>And now my children three<br/>She looks like the queen<br/><br/>Father tell me, was she happy?<br/>When she was still arround<br/>Here with you and me<br/><br/>baby cry<br/>Make her sad I dont know why<br/>May be she long ago<br/>That she have to lived<br/>Have to lived<br/><br/>Oh father, I can see her<br/>Like the morning<br/>I need like the yesterday<br/>That she went away<br/>I need like the yesterday<br/>That she went away<br/><br/>Oh father, tell me<br/>I need like the yesterday<br/>That she went away',
@@ -59,7 +59,7 @@ var myPlaylist = [
         artist:'The Classic Illustration<br><br><font color=#0000ff>Lyrics</font><br><br>The sweetest dream<br />I dream with you<br />Youre my sunshine when<br />Troubles make me blue<br /><br />Iam so alone know that you go<br />I didnt mean to hurt you<br />Come back where you belong<br /><br />Yes I know<br />I know Im<br />Gonna loose you<br />But my shoes keep<br />Running back to you<br /><br />Cause they know<br />there never be another<br />There will never be<br />Another you<br /><br />Still I go<br />that same on Play<br />and Where we walk together<br />and kiss the night away<br /><br />Only a fool good let you go<br />My world is so empty<br />Come back I miss you so.',
         rating:4,
 		duration:'',
-        buy:'https://dl.dropboxusercontent.com/s/955ckbn19eepowv/The%20Classics%20-%20Im%20Gonna%20Lose%20You..mp3?dl=1',
+        buy:'https://docs.google.com/uc?export=download&id=0B84Nkv57kdCOWGhfN3lrQXFNU28',
         cover:'http://1.bp.blogspot.com/-ERzQxpLLCw8/Vf7SC-Lu2rI/AAAAAAAAAWg/yCsz_SJsaEA/s1600/TheClassics.jpg'
 		
     },
@@ -70,7 +70,7 @@ var myPlaylist = [
         artist:'Smokie Robinson <br><br><b>Lyrics</b><br><br>Every dream that I dream<br />Seems to float on by<br />Like a cloud in the wind<br />Way up in the sky<br />Every move that I make<br />Seems to be the wrong way<br />Like a cold black night<br />After a summer day<br /><br />What can I do<br />What can I do<br />Nothing to say but it used to be<br />Nothing to say but it used to be<br />What can I do<br /><br />You still play my guitar<br />With a smile on my face<br />Now everythings changed<br />My whole lifes rearranged<br />From the day I was born<br />Sidle Jinks was my name<br />Though I tried and I tried<br />That name still remains<br /><br />What can I do<br />What can I do<br />Nothing to say but it used to be<br />Nothing to say but it used to be<br />What can I do<br /><br />What can I do<br />What can I do<br />What can I do<br />What can I do<br /><br />I hear voices all singing<br />But no one is there<br />Its a ghost of my life<br />Bringing past tense to mind<br />Lokin key inside me<br />From the freedom and sin<br />Oh come let me in<br />Ill start all over again<br /><br />What can I do<br />What can I do<br />Nothing to say but it used to be<br />No no no no no no no no no<br />What can I do<br />What can I do',
         rating:4,
 		duration:'',
-        buy:'https://dl.dropboxusercontent.com/s/luk9d0szm5q161o/What%20Can%20I%20Do%20-%20Smokie%20Robinson.mp3?dl=1',
+        buy:'https://docs.google.com/uc?export=download&id=0B84Nkv57kdCOTEl6UU8zUk9ISE0',
         cover:'http://4.bp.blogspot.com/-y4iB2rTOiQ8/VCPY_1Dj56I/AAAAAAAAOhM/_pUHJmHeQ5M/s1600/What%2BCan%2BI%2BDo%2B-%2BSmokie.jpg'
 		
     },
@@ -81,7 +81,7 @@ var myPlaylist = [
         artist:'Getty & Teach In<br><br><b>Lyrics : </b><br><br>There was a time that I knew you were mine<br />But the dreams of today fly away.<br />Im alone again.<br />Where can I go?<br />I dont know what to do without you.<br />Im alone...<br /><br />When I need love I need you by my side.<br />You know who treats me right coming home.<br />Im alone again.<br />When can I say that the time slips away<br />For the rest of my life...<br /><br />And it seems like yesterday<br />We were together every day.<br />Now that time has passed away<br />And Im alone.<br />And it seems like yesterday<br />We were in love every day<br />But now that time has passed away.<br />Im so alone...<br /><br />Tears in my eyes.<br />I cant sleep cause you cry<br />And I see you and me in my dreams.<br />Im alone again.<br />When can I say that the time slips away<br />For the rest of my life... ',
         rating:4,
 		duration:'',
-        buy:'https://dl.dropboxusercontent.com/s/zmm6sq02whoq2qg/Getty%20%26%20Teach%20In%20-%20Im%20Alone.mp3?dl=1',
+        buy:'https://docs.google.com/uc?export=download&id=0B84Nkv57kdCORGtXb29EMzFFSmM',
         cover:'http://3.bp.blogspot.com/-GYPRsBpEAGs/UUlJD1yYMMI/AAAAAAAADfg/quHgp7Ah7kQ/s200/I%27m+Alone-+Getty+&+Teach+In.jpeg'
 		
     },
